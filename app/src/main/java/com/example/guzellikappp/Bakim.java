@@ -26,6 +26,10 @@ public class Bakim extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bakim);
+
+
+
+
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
@@ -64,6 +68,7 @@ public class Bakim extends AppCompatActivity
     public boolean onNavigationItemSelected(MenuItem item) {
 
         // Handle navigation view item clicks here.
+
         int id = item.getItemId();
 
 

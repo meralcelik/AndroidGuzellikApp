@@ -13,5 +13,10 @@
 
 
 
+    <include
+        layout="@layout/fragment_ayak"
+      />
+
+
 
 </android.support.constraint.ConstraintLayout>
