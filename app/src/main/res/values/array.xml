@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="baslik">
+
+        <item>Kuru Ciltler için maske</item>
+        <item>Yağlı ciltlere maske</item>
+        <item>Cildi canlandıran ve ferahlatan maske</item>
+        <item>Cildi yumuşatan ve temizleyen maske</item>
+        <item>Cildi nemlendiren ve düzen</item>
+        <item>Cilde nem kazandoran ve düzenleyen maske</item>
+        <item>Nemlendiren ve dengeleyen maske</item>
+        <item>Rahatlatan ve besleyen maske</item>
+        <item>Ölü deriden arındaran maske</item>
+        <item>Hücreleri yenileyen maske</item>
+        <item>Güçlendiren maske</item>
+        <item>Ölü derileri yok eden maske</item>
+        <item>Cildi gençleştiren maske</item>
+        <item>Parlatan maske</item>
+        <item>Arındaran maske</item>
+
+
+    </array>
+
+    <string-array name="Etki">
+
+        <item>Cildi güçlendirmek ve nemlendirmek</item>
+        <item>Ciltteki tonlamayı sağlamak ve beslemek</item>
+        <item>Tüm cilt tipleri için</item>
+        <item>Cildi yumuşatmak ve temizlemek</item>
+        <item>Cildi nemlendirmek ve düzenlemek</item>
+        <item>Cildi beslemek ve nemlendirmek</item>
+        <item>Nemlendirmek ve dengelemek</item>
+        <item>Rahatlatmak, düzenlemek, nemlendirmek ve beslemek</item>
+        <item>Ölü derilerden arındırmak ve canlandırmak</item>
+        <item>Cildi rahatlatmak, hücreleri yenilemek ve beslemek</item>
+        <item>Nemlendirmek, güçlendirmek ve beslemek</item>
+        <item>Hücreleri yenilemek ve ölü derileri yok etmek</item>
+        <item>Cildi gençleştirmek ve rahatlatmak</item>
+        <item>Nemlendirmek, parlatmak ve yumuşatmak</item>
+        <item>Arındırmak, temizlemek ve nemlendirmek</item>
+
+
+    </string-array>
+    <string-array name="ciltTip">
+
+        <item>Kuru</item>
+        <item>Yağlı, parlak</item>
+        <item>Tüm cilt tipleri için</item>
+        <item>Yağlı, karma</item>
+        <item>Kuru, karma</item>
+        <item>Kuru, karma</item>
+        <item>Karma</item>
+        <item>Tüm cilt tipleri için"</item>
+        <item>Yağlı, karma</item>
+        <item>Tüm cilt tipleri için</item>
+        <item>Tüm cilt tipleri için</item>
+        <item>Tüm cilt tipleri için</item>
+        <item>Tüm cilt tipleri için</item>
+        <item>Tüm cilt tipleri için</item>
+        <item>Kuru</item>
+        <item>Karma ,yağlı</item>
+
+
+    </string-array>
+    <string-array name="hazirla">
+
+        <item>Bir adet muzu püre haline getirin ve
+            10-20 dakika arasında yüzünüzde tutun. Ardından
+            soğuğa yakın ılık suyla yıkayıp yüzünüzü pat pat şeklinde havluyla silin.</item>
+        <item>Bir bardak suyun içine 1 yemek kaşığı elma sirkesi ekleyin.
+            Karıştırdıktan sonra yüzünüze sürün. Bu işlemi yüzünüzü yıkadıktan sonra gerçekleştirin.</item>
+        <item> Bir bardağın dörtte birine kadar süt tozu koyun. Üzerine ince bir hamur kıvamı elde edene kadar da su.
+            Ardından yüzünüze sürün ve kuruyana kadar bekleyin. Kuruduktan sonra ılık suyla yüzünüzü yıkayın.</item>
+        <item>Küçük bir kaseye bir yemek kaşığı süzme yoğurt alın. İnce bir tabaka şeklinde yüzünüze sürün.
+            20 dakika boyunca bekletin ve ardından soğuk suyla yıkayın.</item>
+        <item>Bir su bardağının çeyreğini badem ya da zeytinyağı ile doldurun.
+            Üzerine bir adet taze limon sıkın. Yüzünüze uygulayın. Yaklaşık 10 dakika sonra silin.</item>
+        <item>1 avokado içini püre haline getirin, içine 1 yumurta beyazı ve 1 yemek kaşığı limon ekleyin.
+            İnce bir tabaka şeklinde yüzünüze sürün. 30 dakika bekletikten sonra soğuk suyla yıkayın.</item>
+        <item>Yarım muz, 2 yemek kaşığı bal ve yarım yemek kaşığı zencefili karıştırıp püre haline getirin.
+            30 dakika boyunca yüzünüzde ince bir tabaka şeklinde bırakın. Sonra soğuk suyla yıkayın.</item>
+        <item> Yarım salatalığı bir kaşık balla birlikte püre haline getirin. Yüzünüze sürün ve yaklaşık
+            20 dakika bekletin. Soğuk suyla yıkayıp kurulayın.</item>
+        <item>2 yemek kaşığı nar, 1 su bardağı çiğ yulaf ve 2 yemek kaşığı balı güzelce karıştırın. Yüzünüze sürüp scrub şeklinde masaj yaparak sürün.
+            3 dakika boyunca bu işlemi gerçekleştirin ve yüzünüzü yıkayın.</item>
+        <item>2 yemek kaşığı süzme yoğurt içine blenderdan geçirdiğiniz 10 tane çileği karıştırın.
+            Ardından yüzünüze ince bir tabaka şeklinde sürün. Yaklaşık 15 dakika sonra soğuk suyla yıkayın.</item>
+        <item>İki yemek kaşığı balı benmari usulü ısıtın. Yüzünüzün yanmaması için öncelikle kolunuzda deneyin.
+            Ardından yüzünüze sürüp yaklaşık 15 dakika boyunca bekleyin. Ilık suyla yavaşça yıkayın.</item>
+        <item>20 adet zeytin çekirdeğini çıkarın. Güçlü bir blenderdan geçirip püre haline getirin. Yüzünüze sürüp yaklaşık
+            3 dakika boyunca scrub olarak ovun. Ardından soğuk suyla yüzünüzü yıkayın.</item>
+        <item>Kullandığınız dört adet yeşil çay poşetini buzdolabında bekletin. 15 dakika sonra poşetleri alıp gözlerinizin üzerine ve yüzünüzün farklı noktalarına yerleştirin.
+            Poşetler ısınınca kaldırın ve yüzünüzü kurulayın.</item>
+        <item>Bir tatlı kaşığı zeytinyağını yüzünüze sürün ve masaj yaparak yayın. Ardından kuru bir bez yardımıyla
+            silerek ovmaya devam edin. Bastırmamaya dikkat edin.
+            Yüzünüzde yağ kalmadığına emin olana kadar işlemi uygulayın. Son olarak yüzünüzü soğuk suyla yıkayın.</item>
+
+        <item>Açtığınız bir sodadan yaklaşık iki yemek kaşığı kadar bir bardağa koyun. Parmaklarınızı sodayla
+            ıslatarak yüzünüze sürün.
+    Sodanın yüzünüzde kurumasına izin verin.</item>
+    </string-array>
+
+    <string-array name="Ebaslik">
+
+        <item>İlk önce ölü deriden arınalım</item>
+        <item> Limon ile pürüzsüz eller...</item>
+        <item>Yumuş yumuş eller hayal değil.</item>
+        <item>Yumurta maskesi ile yenilenen eller...</item>
+        <item>Soğuktan çatlayan elleri onarıyoruz.</item>
+        <item>Avokado ile ellerin E vitamini ihtiyacını karşılıyoruz.</item>
+        <item>Yulaf ile elleri ovuyoruz...</item>
+        <item>Muz ile elleriniz neme doysun.</item>
+        <item>Salatalık ve limon mucizesi!</item>
+        <item>Sirke ve limon ile ellerinin gençleşmesine izin ver.</item>
+        <item>Papaya ile ellere masaj yapıyoruz.</item>
+        <item>Kil ile ellere detoks etkisi...</item>
+        <item> Süt ile elleriniz canlanacak.</item>
+
+
+    </string-array>
+    <string-array name="Elmaskeler">
+
+        <item>Zeytinyağlı El Peelingi</item>
+        <item>Limonlu El Maskesi</item>
+        <item>Patatesli El Maskesi</item>
+        <item>Yumurtalı El Maskesi</item>
+        <item>Gülsuyu ve Gliserinli El Bakım Suyu</item>
+        <item>Avokadolu El Maskesi</item>
+        <item>Yulaflı El Maskesi</item>
+        <item>Muzlu El Maskesi</item>
+        <item>Salatalıklı El Maskesi</item>
+        <item>Sirkeli El Maskesi</item>
+        <item>Papaya ve Yumurtalı El Maskesi</item>
+        <item>Killi El Maskesi</item>
+        <item>Sütlü El Maskesi</item>
+
+
+    </string-array>
+    <string-array name="malzemeler">
+
+        <item>2 yemek kaşığı şeker ,<br />
+            3 yemek kaşığı zeytin yağı</item>
+        <item>Yarım limon suyu,
+1 tatlı kaşığı karbonat ,
+2 yemek kaşığı bal</item>
+        <item>1 adet patates,1 tatlı kaşığı badem yağı,1 tatlı kaşığı gliserin</item>
+        <item>1 adet yumurta sarısı,2 yemek kaşığı zeytinyağı,1 yemek kaşığı bal</item>
+        <item>Gül yaprakları,1 yemek kaşığı gliserin,1 lt su</item>
+        <item>1 adet avokado, 1 yemek kaşığı şeker,1 yemek kaşığı bal</item>
+        <item>2 yemek kaşığı yulaf,2 yemek kaşığı zeytinyağı</item>
+        <item>1 adet muz,1 yemek kaşığı lavanta yağı yada zeytin yağı</item>
+        <item>1 adet salatalık, Yarım limon suyu,4-5 dal maydanoz</item>
+        <item>1 yemek kaşığı sirke ,Yarım limon suyu ,1 çay kaşığı tuz</item>
+        <item>1 adet papaya,1 tatlı kaşığı bal,1 adet yumurta sarısı</item>
+        <item>2 yemek kaşığı kil,1 tatlı kaşığı bal,1 adet yumurta sarısı</item>
+        <item>2 yemek kaşığı pirinç unu,2 tatlı kaşığı süt,1 yemek kaşığı gliserin </item>
+
+
+    </string-array>
+
+    <string-array name="hazirlanisiEl">
+              <item>Şeker ve zeytin yağını minik bir kasede karıştırın. Avuç içlerinizden
+                  başlayarak, bileklerinize kadar bu karışım ile masaj yaparak uygulayın.
+                  Ardından 2-3 dakika karışımı elinizde bekletip, ılık su ile durulayın.</item>
+        <item>Limon suyu, karbonat ve balı iyice karıştırın. Masaj yaparak ellerinize uygulayın.
+            5-10 dakika ellerinizde beklettikten sonra ılık su ile durulayın.</item>
+        <item>Patatesleri  haşlayıp, püre haline getirin. Badem ve gliserin yağını
+            üzerine ekleyip, pürüzsüz bir kıvama gelene kadar karıştırın.
+            Ellerinize masaj yaparak uygulayın ve en az 15 dakika bekletin.
+            Beklettikten sonra ılık su ile durulayın.</item>
+        <item>Yumurta sarısı ve zeytin yağını karıştırın. Ardından üzerine bal ekleyin. Ellerinize masaj yaparak uygulayın ve 15 dakika bekletin.
+            Beklettikten sonra ılık su ile durulayın.</item>
+        <item>Gül yapraklarını 1 lt suyun içerisine ekleyip, 1 gün bekletin. Ertesi gün içerisine gliserin ekleyerek karıştırın.
+            Bu karışım ile ellerinize masaj yapıp durulayın.</item>
+        <item>Avokadoyu iyice ezip, bal ve şeker ile karıştırın. Ellerinize masaj yaparak uygulayın
+            ve 15-20 dakika bekletin. Ilık su ile durulayın.</item>
+        <item>Minik bir kasenin içerisinde yulaf ve zeytin yağını karıştırın. Karışımı ellerinize masaj yaparak uygulayın.
+            10-15 dakika ellerinizde bekletip, durulayın.</item>
+        <item>Muzu bir kasenin içerisinde ezip üzerine zeytinyağı ekleyin. Elde edilen karışımı ellerinizde
+            15-20 dakika bekletin. Ilık su ile durulayın.</item>
+        <item>Salatalık, limon suyu ve maydanozu blender ile püre haline getirin.
+            Karışımı ellerinize masaj yaparak uygulayın. Ilık su ile durulayın.</item>
+        <item>Sirke, limon ve tuzu karıştırarak ellerinize yavaş yavaş uygulayın. Kuru cilde sahipseniz,
+            bu maskeden sonra mutlaka bol bol nemlendirici uygulayın.</item>
+        <item>Papaya ile bal ve limon suyunu pürüzsüz bir kıvam elde edinceye kadar blender ile karıştırın.
+            Karışımı ellerinize yavaş yavaş masaj yaparak uygulayın. Ilık su ile durulayın.</item>
+        <item>Kil, bal ve yumurta sarısını karıştırıp ellerinize uygulayın.
+            Karışımı 15 dakika bekletip, durulayın.</item>
+        <item>Minik bir kasenin içerisinde pirinç unu, gliserin ve sütü karıştırın. Ellerinize bu karışımı uygulayarak 5-10 dakika bekletin.
+            2 haftada 1 uygulamanız yeterli olacaktır.</item>
+
+
+    </string-array>
+    <string-array name="AyakBaslik">
+
+        <item>Bitkisel Yağlar ile Çatlamış Topukların Çözümü</item>
+        <item> Muz veya Avokadonun mucizesi</item>
+        <item>Vazelin ve Limon Suyu ile Çatlamış Topukların Çözümü</item>
+        <item> Bal mumu ile Çatlamış Topukların Çözümü</item>
+        <item>Çatlak Topuklar İçin Ballı Ayak Maskesi</item>
+        <item>Çatlamış topukları tedavi etmek için pirinç unu</item>
+        <item>Çatlamış Topuklar İçin Zeytinyağı mucizesi</item>
+        <item> Yırtıklı Krem Çatlamış Topuklar İçin</item>
+        <item>Çatlamış Ayaklara Susam yağıyla ovmaya ne dersiniz</item>
+        <item> Çatlamış topuklar için Hindistan cevizi yağı</item>
+        <item>Çatlak Topuklar İçin Listerine Suyu</item>
+        <item>Çatlamış Topuklara  Kabartma Tozu şifası</item>
+        <item>Çatlamış topuklara doğal elma sirkeli bakım</item>
+        <item>Çatlak Topuklar İçin Epsom Tuzu</item>
+        <item> Çatlamış Topuklar İçin Aloe Vera</item>
+
+
+    </string-array>
+
+    <string-array name="AyakMalzemeler">
+        <item>2 çay kaşığı bitkisel yağ.</item>
+        <item> Olgunlaşmış 1 muz,Yarım parça avokado</item>
+        <item>Vazelin 1 çay kaşığı,4 ila 5 damla limon suyu,</item>
+        <item> 1 çorba kaşığı parafin mumu,2 ila 3 damla hardal yada hindistan cevizi yağı.</item>
+        <item>1 su bardağı hakiki bal,ılık su</item>
+        <item>2 ile 3 çorba kaşığı pirinç unu,1 tatlı kaşığı hakiki bal,3 ile 4 damla elma sirkesi.</item>
+        <item>1 çorba kaşığı zeytinyağı.</item>
+        <item> 1 çorba kaşığı toz yulaf ezmesi ,4 ile 5 damla zeytinyağı
+</item>
+        <item>4 ile 5 damla susam yağı.</item>
+        <item> 2 çorba kaşığı hindistan cevizi yağı</item>
+        <item>1 su bardağı alkolsüz listerine suyu,1 fincan beyaz sirke,2 su bardağı su,Bir havza,Ayak dosyası veya pomza taşı</item>
+        <item>3 çorba kaşığı kabartma tozu,Pomza taşı</item>
+        <item>1 su bardağı doğal elma sirkesi</item>
+        <item>Yarım fincan Epsom tuzu,ılık su</item>
+        <item> Aloe vera jeli,ılık su</item>
+
+    </string-array>
+    <string-array name="AyakHazirlanisi">
+        <item>Ayaklarınızı yıkayın ve temiz bir havlu kullanarak tamamen kurutun. Ardından ayaklarımızın çatlamış kısımlarına bitkisel yağ tabakası uygulayın.
+Bir çift kalın çorap giyin ve bir gece böyle uyuyun.
+Sabahları ayaklarınızı yıkayın.</item>
+        <item> Olgun bir muz ve yarım avokadoyu karıştırın.
+Topuk ve ayaklarınızın üzerine kalınca sürerek uygulayın.
+15-20 dakika boyunca böylece muhafaza edin.
+Sonra ayakları ılık suyla yıkayın.</item>
+        <item>Ayağınızı ılık suda 15-20 dakika bekletin. Durulayın ve kurutun.
+Bir çay kaşığı Vazelin ve birkaç damla limon suyu karıştırın. Bu karışımı topuklarınıza  ve cildinize emilene kadar çatlaklara yedirin.
+Gece boyunca kalsın ve çorap giymeyi unutmayın.</item>
+        <item> Bir miktar parafin balmumu ile hardal yağı veya hindistancevizi yağı ile karıştırın.
+Balmumu doğru şekilde eritene kadar karışımı bir tencereye ısıtın.
+Oluşan karışımın oda sıcaklığına soğumasına izin verin. Karışımı ayaklarınızın üzerine uygulayın.
+
+</item>
+        <item>Bir bardak balı yarım kova suya karıştırın.
+Ayaklarınızı yaklaşık 15-20 dakika ıslatın.
+Yumuşak ve esnek ayak elde etmek için hafifçe ovun.</item>
+        <item>İki veya üç çorba kaşığı öğütülmüş pirinç ununu ve kalın bir macun yapmak için birkaç damla bal ve elma sirkesi ekleyin, iyice karıştırın.
+
+Ayaklarınızı ılık suda 10 dakika kadar ıslatın ve ölü cildi ayaklarınızdan çıkarmak için hafifçe bu macunu kullanarak fırçalayın.</item>
+        <item>Pamuklu bir tampon yardımıyla biraz zeytinyağını ayaklara uygulayın ve 10-15 dakika boyunca dairesel hareketlerle ayaklarınızı hafifçe masaj yapın.
+Bir çift kalın pamuklu çorap giyin ve bir saat sonra yıkayın.</item>
+        <item> Toz haline getirilmiş yulaf ezmesi ve zeytin yağını, kalın bir macun oluşturmak için iyice karıştırın.
+Bunu ayaklarınızın üzerine, özellikle topuklar ve çatlak yüzeylerin üzerine uygulayın.
+Yaklaşık yarım saat bekletin. Soğuk su ile durulayın ve kurulayın.</item>
+        <item>Topuklarınıza ve diğer kırık parçalara susam yağı uygulayın.
+Deriyle absorbe olana kadar masaj yapın.</item>
+        <item> Yağları ayaklarınızın üzerine uygulayın.
+Çoraplara dokunun ve yatın. Sabahları her zamanki gibi duş.</item>
+        <item>Yukarıda bahsedilen bileşenleri içeren sıvıları karıştırarak, ayağınızı 10-15 dakika kadar bu suyun içinde bekletin.
+Ayaklarınızı çıkarın ve ölü deri parçalamak için ayak forçası veya pomza taşını kullanarak ovun.
+</item>
+        <item>Kovanın 2 / 3’ünü ılık suyla doldurun ve kabartma tozu ekleyin. Kabartma tozu suda çözünene kadar iyice karıştırın.
+Ayaklarınızı 10 ila 15 dakika boyunca ıslatın.
+Ayağınızı emmekten çıkarın ve pomza taşıyla hafifçe ovun.
+Temiz su ile yıkayın.</item>
+        <item>Küçük bir kovaya, üç dört bardak su koyarak, ayaklarınızı kaplayacak şekilde su doldurun.
+Elma sirkesini ekleyin ve iyice karıştırın.
+Ayağınızı yaklaşık 15 dakika bu suya batırın ve ölü cildi çıkarmak için daha sonra pomza taşı yada ayak fırçası ile fırçalayın.</item>
+        <item>Ayak lavabosunu suyla doldurun ve Epsom tuzunu karıştırın.
+Kırık ayaklarınızı buna 15 dakika bekletin. Ölü cildi çıkarmak için fırçalayın.</item>
+        <item> Ayaklarınızı birkaç dakika boyunca ılık suda bekletin.
+Kururken hafifçe aloe vera jeli ayağınıza uygulayın.
+Çorap giyin ve jeli bir gece ayakta bırakın.</item>
+    </string-array>
+
+    <string-array name="sacbaslik">
+        <item>Parlak Saçlara Özel Maske</item>
+        <item>Yıpranmış Saçlara Son</item>
+        <item>Kuru Saçlara Son</item>
+        <item>Dökülen Saçlar Kalmasın</item>
+        <item>Kırılan Saçlar Milada Karıştı</item>
+        <item>Elektriklenen Saçlara Özel</item>
+        <item>Saçınızın Güçlenmesi İçin Maske</item>
+        <item>Saçlarınızın Daha Gür Çıkması İçin Mucize </item>
+        <item>Saç uzatmak bu kadar kolay olamaz...</item>
+        <item>Saç Dökülmesi Durduran Soğan Kürü</item>
+        <item>Saç Dökülmesi Gideren Aloe Vera</item>
+        <item>Saç Dökülmesini Gideren Meyan Kökü</item>
+        <item>Badem Yağı İle Saç Kırıklarına Son..</item>
+        <item>Saç Kırıklarına Bitkisel Yağ Çözümü</item>
+       
+    </string-array>
+
+
+    <string-array name="sacmalzeme">
+
+        <item>1 portakal, 1 yemek kaşığı bal,birkaç damla sandalağacı yağı</item>
+        <item>1 adet muz,birkaç damla badem yağı</item>
+        <item>1 yemek kaşığı bal, 1/2 fincan tam yağlı süt</item>
+        <item>Zeytinyağı, bal, tarçın, 2 yumurta,ıspanak,kişniş,Badem yağı</item>
+        <item>Hindistancevizi yağı,misket limonu suyu</item>
+        <item>Bal</item>
+        <item>100 gram kına,30 gram kişniş,2 yemek kaşığı susam yaprağı,Mersin yaprağı suyu,Turp suyu</item>
+        <item>Mersin yaprağı,zeytinyağı</item>
+        <item>1 adet turp,4 bardak su</item>
+        <item>3 yemek kaşığı soğan suyu,2 yemek kaşığı aloe vera jeli ,
+1 çorba kaşığı zeytinyağı</item>
+        <item>Aloe Vera Jeli</item>
+        <item>1/4 çay kaşığı safran bitkisi (aktardan),1 fincan süt  ,
+1 çay kaşığı meyan kökü</item>
+        <item>1 Tatlı kaşığı badem yağı,1 çorba kaşığı çay ağacı yağı</item>
+        <item>2 yemek kaşığı zeytinyağı, 1 tatlı kaşığı ısırgan tohumu yağı ,1 tatlı kaşığı Argan yağı
+        </item>
+
+    </string-array>
+
+    <string-array name="sachazirlama">
+        <item>Portakalın suyunu sıkın ve su,bal,sandalağacı yağı ile birlikte karıştırın.Bu karışımı şampuanla saçınızı yıkadıktan sonra durulama esnasında kullanınız.</item>
+        <item>Muz ile badem yağını iyice karıştırınız.Daha sonra saç dersine masaj yaparak uygulayınız.15 dakika bekledikten sonra maden suyu ile birlikte saçınızı durulayın.Ardından şampuanla yıkayınız.</item>
+        <item>Bal ile sütü birlikte iyice karıştırın ve saçınıza masaj yaparak yedirin.15 dakika geçtikten sonra yumuşak bir şampuan ile saçınızı yıkayın.</item>
+        <item>Zeytinyağı,bal,tarçın ve yumurtayı birlikte karıştırarak özel karışım elde ediniz.Ardından masaj yaparak saç derinize uygulayınız.15 dakika sonra saçınızı yumuşak bir şampuan ile yıkayınız.Bu karışımı haftada 3-4 kez uygulayabilirsiniz.</item>
+        <item>Haftada iki kez misket limonu suyuyla karıştırdığınız hindistancevizi yağını saçlarınıza sürün.</item>
+        <item>Bir yemek kaşığı balı 1 litre suyla karıştırın.Bu karışımı şampuandan sonra durulama suyunda kullanın. Saçınızı her yıkadığınızda kullanın.</item>
+        <item>Tüm bunlar bir karışım haline getirilerek kaynatılır.Gece yatmadan önce saçlara masaj yaparak uygulanır ve bone yardımıyla bağlanır.Sabah uyanıldığında hatmi kökü kaynatılır ve suyu ile birlikte saçlar durulanır.</item>
+        <item>Mersin yaprağını ince ince kesin ve bir kavanoza doldurup üzerine ağzına kadar zeytinyağı koyup ağzını iyice kapatın. Güneş gören veya sıcak bir yerde 15 gün bekletin.Daha sonra saçlara gece yatmadan önce masaj yaparak uygulayın.Sabah kükürtlü sabunla yıkanır.</item>
+        <item> adet turpu,dört bardak suyun içinde kaynatın. 5 dakika kaynattıktan sonra turbu kaynayan sudan alın. Tencerede kalan su ılıklaşında bir yumurta sarısı kırıp karıştırın.Daha sonra oluşan bu saç uzatma maskesini saç derinizi masaj yardımıyla yedirin.</item>
+        <item>Yukarıdaki malzemelerin hepsini cam bir kase içerisinde karıştırın.
+Elde ettiğiniz karışımı saç derinize uygulayın ve durulamadan önce en az 30 dakika saçlarınızda bekletin ve saçlarınızı sonrasında yıkayın.</item>
+        <item>Aloe vera jelinden bir miktar alın ve direk saç diplerine masaj yaparak uygulayın.
+Bir sat kadar saçınızda kaldıktan sonra ılık su ile saçlarınızı yıkayın.
+Bu işlemi haftada üç veya dört defa tekrarlayabilirsiniz.</item>
+        <item>Çeyrek çay kaşığı safran, bir fincan süt ve bir çay kaşığı meyan kökünü güzelce karıştırın.
+Elde ettiğiniz karışımı gece yatmadan önce saçlarınıza yedirerek ve masaj yaparak sürün.
+Sabah kalktığınızda saçlarınızı yıkayın.
+Haftada bir veya iki kez bu karışımı deneyebilirsiniz.</item>
+        <item>Yağları birbirine karıştırdıktan sonra karışımı saç uçlarınıza güzelce sürün. Ardından saçlarınızı topuz yaparak 2 saat bekletin. Haftada 2 kez uygulandığında saç kırıklarını giderecektir.
+        </item>
+        <item>Malzemelerin tümünü karıştırın ve elde ettiğiniz karışımı saçlarınızın uçlarına masaj yaparak güzelce sürün. Saçlarınızı havluyla sararak 1 saat bekletin ve ardından yıkayın.
+</item>
+
+    </string-array>
+</resources>

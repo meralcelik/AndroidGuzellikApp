@@ -1,0 +1,83 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme1" parent="Theme.AppCompat.Light">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light"></style>
+
+
+
+    -<style parent="AppTheme" name="AppThemeMavi">
+
+    <item name="colorPrimary">@color/colorPrimaryMavi</item>
+
+    <item name="colorPrimaryDark">@color/colorPrimaryDarkMavi</item>
+
+    <item name="colorAccent">@color/colorAccentMavi</item>
+
+</style>
+
+
+    -<style parent="AppTheme" name="AppThemeGri">
+
+    <item name="colorPrimary">@color/colorPrimaryGri</item>
+
+    <item name="colorPrimaryDark">@color/colorPrimaryDarkGri</item>
+
+    <item name="colorAccent">@color/colorAccentGri</item>
+
+</style>
+
+
+    -<style parent="AppTheme" name="AppThemePink">
+
+    <item name="colorPrimary">@color/colorPrimaryPink</item>
+
+    <item name="colorPrimaryDark">@color/colorPrimaryDarkPink</item>
+
+    <item name="colorAccent">@color/colorAccentPink</item>
+
+</style>
+
+
+    -<style parent="AppTheme" name="AppThemeKahverengi">
+
+    <item name="colorPrimary">@color/colorPrimaryKahverengi</item>
+
+    <item name="colorPrimaryDark">@color/colorPrimaryDarkKahverengi</item>
+
+    <item name="colorAccent">@color/colorAccentKahverengi</item>
+
+</style>
+
+
+    -<style parent="AppTheme" name="AppThemeYesil">
+
+    <item name="colorPrimary">@color/colorPrimaryGreen</item>
+
+    <item name="colorPrimaryDark">@color/colorPrimaryDarkGreen</item>
+
+    <item name="colorAccent">@color/colorAccentGreen</item>
+
+</style>
+</resources>
