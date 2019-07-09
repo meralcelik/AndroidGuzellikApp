@@ -29,18 +29,18 @@ public class MainActivity extends AppCompatActivity {
 
         Point point = new Point();
         ekran.getSize(point);
-
+//
         int genislik = point.x;
         int yukseklik = point.y;
 
         //1.78 en boy oranı
-        image.getLayoutParams().width = (int) (yukseklik * 1.85);
-        image.getLayoutParams().height = yukseklik;
+        image.getLayoutParams().width = (int) (yukseklik *8.78);
+     //   image.getLayoutParams().height = (int) (genislik * 3.35);
 
-        ObjectAnimator animator = ObjectAnimator.ofFloat(image, "x", 0, -(yukseklik * 1.78f - genislik), 0, -(yukseklik * 1.78f - genislik));
-        animator.setDuration(210000);
-        animator.setInterpolator(new LinearInterpolator());
-        animator.start();
+//        ObjectAnimator animator = ObjectAnimator.ofFloat(image, "x", 0, -(yukseklik * 1.78f - genislik), 0, -(yukseklik * 1.78f - genislik));
+//        animator.setDuration(210000);
+//        animator.setInterpolator(new LinearInterpolator());
+//        animator.start();
 
 
   }

@@ -9,7 +9,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:gravity="center"
         android:orientation="vertical">
 
@@ -20,6 +20,7 @@
             android:background="?attr/colorPrimary"
 
             app:popupTheme="@style/AppTheme.PopupOverlay" />
+
         <TextView
             android:id="@+id/baslikAyak"
             android:layout_width="match_parent"
@@ -45,7 +46,7 @@
         <LinearLayout
             android:id="@+id/buton_container"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
 
             android:orientation="vertical">
 
@@ -90,24 +91,23 @@
                 android:textStyle="italic" />
 
 
-
             <Button
                 android:id="@+id/button"
-                android:layout_width="200dp"
-                android:layout_height="66dp"
-                android:layout_marginLeft="8dp"
-                android:layout_marginTop="20dp"
+                android:layout_width="100dp"
+                android:layout_height="46dp"
+                android:layout_marginLeft="210dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="8dp"
-                android:layout_marginBottom="90dp"
-                android:background="@drawable/custom_btn"
+                android:layout_marginBottom="50dp"
+                android:background="@drawable/paylas_button"
                 android:text="Paylaş"
-                android:textSize="25sp"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:textStyle="italic"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintLeft_toLeftOf="parent"
                 app:layout_constraintRight_toRightOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/frameLayout2"
+
                 app:layout_constraintVertical_bias="1.0"
                 tools:ignore="MissingConstraints" />
 

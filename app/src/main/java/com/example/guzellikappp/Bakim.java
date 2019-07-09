@@ -27,9 +27,6 @@ public class Bakim extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bakim);
 
-
-
-
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
@@ -42,7 +39,12 @@ public class Bakim extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
-        manager = getFragmentManager();
+        this.manager = getFragmentManager();
+        FragmentAyak fragmentAyak = new FragmentAyak();
+        FragmentTransaction fragmentTransaction = this.manager.beginTransaction();
+        fragmentTransaction.add(R.id.contentBakim,fragmentAyak, "FragmentAyak");
+        fragmentTransaction.addToBackStack("AddFragmentAyak");
+        fragmentTransaction.commit();
       
     }
 
